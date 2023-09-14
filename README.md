@@ -1,7 +1,7 @@
 # Girl_Pong
 Classic Pong styled for girls
 
-Girlie Pong is a simple Pong game implemented using the Pygame library. It's a classic game where the objective is to bounce the ball past your opponent's paddle to score points. The game features vibrant colors, sound effects, and an exciting gameplay experience.
+Girl Pong is a simple Pong game implemented using the Pygame library. It's a classic game where the objective is to bounce the ball past your opponent's paddle to score points. The game features vibrant colors, sound effects, and an exciting gameplay experience.
 
 How to Play
 The game is played on a rectangular screen with two paddles (one for each player) and a ball.
